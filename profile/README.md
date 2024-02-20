@@ -17,7 +17,7 @@
     <a href="https://github.com/WhitelabGenomics">
         <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/github.svg" width=20px height=20px alt="github: oscar-defelice">
     </a>&nbsp;
-    <a href="mailto:datascience@whitelabgx.com">
+    <a href="mailto:contact@whitelabgx.com">
         <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/mail.svg" width=20px height=20px alt="email">
     </a>&nbsp;
     <a href="https://whitelabgx.com">
@@ -27,7 +27,7 @@
 
 
 - 🧬 We are currently working on de-risking genomic medicine development!
-- 📫 How to reach us: [write us an email](mailto:businessdevelopment@whitelabgx.com) or you can drop us a message on our social pages.
+- 📫 How to reach us: [write us an email](mailto:contact@whitelabgx.com) or you can drop us a message on our social pages.
 <!-- - ❤ If you enjoy what I do, you [can become a sponsor and fund me](https://github.com/sponsors/oscar-defelice/) <br /> -->
 
 <!---
