@@ -1,4 +1,4 @@
-<a href="https://whitelabgx.com"><img src="https://whitelabgx.com/wp-content/uploads/2020/06/logo_whitelab_genomics_HD.png" width="275" align="right" /></a>
+<a href="https://whitelabgx.com"><img src="https://cdn.healthtechalpha.com/static/startup_data_images/106544.png" width="275" align="right" /></a>
 
 # Welcome to the Whitelab Genomics github space
 > AI for genomic medicine
